@@ -1,3 +1,10 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/Nate03281982/pen/yKbGXb.
+Project:
 
- 
+This is my protfolio in HTML and CSS
+
+
+How To Run:
+
+Clone this repo: https://github.com/Nate03281982/Portfolio.git
+Run index.html in your favorite browser
+
