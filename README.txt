@@ -1,6 +1,6 @@
 Project:
 
-This is my protfolio in HTML and CSS
+This is my portfolio in HTML and CSS
 
 
 How To Run:
